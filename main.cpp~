@@ -1,6 +1,5 @@
 #include"player.hpp"
 
-
 int getBowl(int skittlesLeft);
 int main(){
   int n;
